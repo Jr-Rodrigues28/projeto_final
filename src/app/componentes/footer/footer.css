@@ -1,0 +1,15 @@
+footer {
+  text-align: center;
+  color: #FFFFFF;
+  background: #6B1EA8;
+  height: 20%;
+  width: 100%;
+  padding: 50px;
+  font-weight: 100;
+}
+
+footer h1 {
+  font-weight: 500;
+  font-size: 20px;
+  font-family: Arial;
+}

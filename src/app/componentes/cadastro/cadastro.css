@@ -1,19 +1,23 @@
-.OneC h1 {
+.OneCadastro h1 {
   font-size: 40px;
   font-weight: 300;
   color: #000000;
   font-family: Arial;
 }
 
-.TwoC form {
+.TwoCadastro form {
   font-weight: 550;
   color: #000000;
 }
 
-.ThreeC {
-  /*background: url(../../assests/img/pexels-olena-bohovyk-17721232.png);*/
+.ThreeCadastro {
+  /*background: url(../../assests/img/pexels-pixabay-270348.jpg);*/
   height: 300px;
   background-size: cover;
   margin-bottom: 2%;
   margin-top: 2%;
+}
+
+.TwoCadastro img {
+  width: 100%;
 }

@@ -1,0 +1,44 @@
+.top {
+  text-decoration: none;
+}
+
+#logo {
+  width: 30px;
+  margin-left: 25px;
+}
+
+.white {
+  color: aliceblue;
+  text-decoration: none;
+
+}
+
+.yello {
+  color: #FFCB46;
+
+}
+
+.navbar {
+  background-color: #6B1EA8;
+  font-weight: 550;
+  color: #FFFF;
+}
+
+.nav-item:hover {
+  font-size: large;
+}
+
+#estilo {
+  background: #FFCB46;
+  color: black;
+  border: 0px;
+  border-radius: 15px;
+  width: 220px;
+  height: 40px;
+  margin-top: -9px;
+  font-weight: 550;
+}
+
+#white {
+  color: #FFFF;
+}

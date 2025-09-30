@@ -1,0 +1,164 @@
+.OneQS {
+  /*background: url(../../assests/img/pexels-sathesh-d-698808.jpg);*/
+  background-size: cover;
+  height: 300px;
+}
+
+.OneQS .row h1 {
+  color: #FFFFFF;
+  font-size: 25px;
+  font-weight: 800;
+  text-align: center;
+  padding-top: 10%;
+  font-family: Arial;
+}
+
+.twoQS h3 {
+  color: #000000;
+  font-weight: 500;
+  text-align: center;
+}
+
+.twoQS p {
+  color: #000000;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+}
+
+#ColunaVisao {
+  background-color: #FFCB46;
+}
+
+#ColunaVisao h4 {
+  font-weight: 500;
+  text-align: center;
+}
+
+#ColunaVisao p {
+  font-size: 17px;
+  font-weight: 500;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#ColunaCompetencias {
+  background-color: #8FFFF8;
+}
+
+#ColunaCompetencias h4 {
+  font-weight: 500;
+  text-align: center;
+}
+
+#ColunaCompetencias p {
+  font-size: 17px;
+  font-weight: 500;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#ColunaRecursos {
+  background-color: #C070FF;
+}
+
+#ColunaRecursos h4 {
+  font-weight: 500;
+  text-align: center;
+}
+
+#ColunaRecursos p {
+  font-size: 17px;
+  font-weight: 500;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#ColunaInfraestrutura {
+  background-color: #FF8383;
+}
+
+#ColunaInfraestrutura h4 {
+  font-weight: 500;
+  text-align: center;
+}
+
+#ColunaInfraestrutura p {
+  font-size: 17px;
+  font-weight: 500;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.fiveQS {
+  margin-top: 5%;
+}
+
+.fiveQS img {
+  width: 80%;
+  background-color: #6969695d;
+  padding: 10%;
+  border-radius: 50%;
+  align-items: center;
+}
+
+.fiveQS h2 {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.fiveQS p {
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+}
+
+.sixQS {
+  margin-top: 5%;
+  background-color: rgba(255, 255, 0, 0.253);
+  padding: 3%;
+}
+
+.sixQS h2 {
+  font-weight: 800;
+  font-size: 20px;
+  margin-top: 20%;
+}
+
+.sixQS p {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.sixQS img {
+  width: 80%;
+  border-radius: 1%;
+}
+
+.sevenQS {
+  height: 1vh;
+  background-color: orange;
+}
+
+.eightQS {
+
+  background-color: rgba(255, 255, 0, 0.253);
+  padding: 3%;
+}
+
+.eightQS h2 {
+  font-weight: 800;
+  font-size: 20px;
+  margin-top: 20%;
+}
+
+.eightQS p {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.eightQS img {
+  width: 80%;
+  border-radius: 1%;
+}
