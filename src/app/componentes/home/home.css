@@ -1,6 +1,6 @@
 .one {
   background-image: url(../../../../public/img/mask-group.png);
-  height: 650px;
+  min-height: 650px;
 }
 
 .one form {
@@ -110,4 +110,18 @@
   text-align: center;
   font-size: 20px;
   font-weight: 350;
+}
+
+
+@media (max-width: 768px) {
+  .one form {
+    margin-top: 5vh;
+    padding-bottom: 2rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .one form {
+    margin-top: 0;
+  }
 }
